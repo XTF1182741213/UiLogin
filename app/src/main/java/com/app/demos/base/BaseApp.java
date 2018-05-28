@@ -1,7 +1,7 @@
 package com.app.demos.base;
 
 import android.app.Application;
-
+//demo
 public class BaseApp extends Application {
 	
 	private String s;
